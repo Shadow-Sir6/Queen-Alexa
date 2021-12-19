@@ -39,7 +39,7 @@ WhatsApp Bot
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/919745464295/Queen-Alexa/blob/main/settings.json#L4)
+- Owner number [Here](https://github.com/+919745464295/Queen-Alexa/blob/main/settings.json#L4)
 - Owner Name [Here](https://github.com/Shadow-Sir6/Queen-Alexa/blob/main/settings.json#L14)
 - Bot Name [Here](https://github.com/Shadow-Sir6/Queen-Alexa/blob/main/settings.json#L15)
 
