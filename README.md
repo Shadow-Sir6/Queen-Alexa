@@ -66,4 +66,4 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/ShadowSir)
+- [`SAWERIA`](https://saweria.co/ShadowSir6)
