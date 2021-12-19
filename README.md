@@ -12,7 +12,7 @@
 </p>g
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-Sir6/Itz-Me-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShadowSir6/Itz-Me-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
 <a href="https://github.com/Shadow-Sir6/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shadow-Sir6?color=red&style=flat-square"></a>
