@@ -15,10 +15,10 @@ WhatsApp Bot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-Sir6/Itz-Me-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
-<a href="https://github.com/Shadow-Sir/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shadow-Sir?color=red&style=flat-square"></a>
-<a href="https://github.com/Shadow-Sir/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shadow-Sir/bug-bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/Shadow-Sir/Queen-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shadow-Sir/bug-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/Shadow-Sir/Queen-Alexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Shadow-Sir/bug-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Shadow-Sir6/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shadow-Sir?color=red&style=flat-square"></a>
+<a href="https://github.com/Shadow-Sir6/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shadow-Sir6/bug-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shadow-Sir6/Queen-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shadow-Sir6/bug-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/Shadow-Sir6/Queen-Alexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Shadow-Sir/bug-bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Shadow-Sir/Queen-Alexa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/Shadow-Sir/Queen-Alexa/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot7?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShadow-Sir%2Fbug-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
