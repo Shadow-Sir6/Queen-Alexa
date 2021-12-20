@@ -31,7 +31,7 @@ WhatsApp Bot
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@Shadow-Sir6/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
 ## `CHANGE SESSION`
 
@@ -39,7 +39,7 @@ WhatsApp Bot
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/+919745464295/Queen-Alexa/blob/main/settings.json#L4)
+- Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
 - Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
 - Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
 
